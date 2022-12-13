@@ -1,5 +1,5 @@
 {
-    "name": "A2_2_StandardServoMidpoint_McLaurin",
+    "name": "A2_2_StandardServo",
     "description": "",
     "dependencies": {
         "core": "*",
